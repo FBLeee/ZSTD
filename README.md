@@ -8,10 +8,11 @@
 - source_code指向D:/source_code/zstd-1.5.6/build/cmake
 - build指向D:/source_code/zstd-1.5.6/build/cmake/build
 - 点击Configure进行配置:
-- 编译器选择Visual Studio 2022
+- 编译器选择Visual Studio 17 2022
 - 平台选择x64
 - 如下图所示:
-  ![image](https://github.com/user-attachments/assets/581f9c95-b8fa-43fa-b586-bfa2a7d488a7)
+  ![image](https://github.com/user-attachments/assets/0f912c03-9f29-4193-99ee-e9f966b4b381)
+
 
   
 - 设置CMAKE_INSTALL_PREFIX为D:/gitlab/zstd_1_5_6
